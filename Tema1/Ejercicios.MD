@@ -60,7 +60,7 @@
     Escribe un programa que calcule el resultado de elevar un número base a un exponente.
 
 18. **Contador de Dígitos:**  
-****    Pide un número entero y muestra cuántos dígitos tiene.
+    Pide un número entero y muestra cuántos dígitos tiene.
 
 19. **Dígito Mayor:**  
     Pide un número entero y determina cuál es su dígito más grande.
