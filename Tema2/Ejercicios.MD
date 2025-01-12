@@ -1,4 +1,4 @@
-¡Claro, Pablo! Aquí tienes una lista de **25 ejercicios prácticos de POO en C++**, organizados en niveles de dificultad creciente. Estos ejercicios cubren los conceptos principales de clases, objetos, encapsulación, herencia, polimorfismo y sobrecarga de operadores. 
+Aquí tienes una lista de **25 ejercicios prácticos de POO en C++**, organizados en niveles de dificultad creciente. Estos ejercicios cubren los conceptos principales de clases, objetos, encapsulación, herencia, polimorfismo y sobrecarga de operadores. 
 
 ---
 
@@ -113,4 +113,4 @@
 
 ---
 
-Cada uno de estos ejercicios está diseñado para desafiarte en diferentes aspectos de la POO en C++, mientras refuerzas tus conocimientos y adquieres experiencia práctica. Si necesitas ejemplos específicos para alguno, ¡avísame y los desarrollamos juntos! 😊
+Cada uno de estos ejercicios está diseñado para desafiarte en diferentes aspectos de la POO en C++, mientras refuerzas tus conocimientos y adquieres experiencia práctica.
